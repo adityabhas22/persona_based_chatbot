@@ -12,7 +12,7 @@ Built as the Prompt Engineering assignment for Scaler Academy.
 
 ## Live demo
 
-Deployed link: _add your Vercel URL here once deployed_.
+**[https://personabasedchatbot.vercel.app](https://personabasedchatbot.vercel.app)**
 
 ## Stack
 

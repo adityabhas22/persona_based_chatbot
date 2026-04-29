@@ -96,7 +96,7 @@ The full annotated prompts and the reasoning behind each design choice live in [
 
 ## Screenshots
 
-_Add screenshots of the chat UI on desktop and mobile here._
+![Kshitij Mishra answering a question about his time at Snapdeal](./docs/kshitij-snapdeal-chat.png)
 
 ## Disclaimer
 
